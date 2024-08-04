@@ -1,0 +1,7 @@
+node_modules
+src
+tests
+*.log
+*.md
+LICENSE
+CONTRIBUTING.md
